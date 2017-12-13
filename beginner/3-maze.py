@@ -2,7 +2,6 @@
 
 # p.37 迷路
 
-
 from collections import deque
 
 global n, m, maze
